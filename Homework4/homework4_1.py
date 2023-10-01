@@ -15,3 +15,4 @@ for i in range(m):
 result = sorted(list(set(list1) & set(list2)))
 
 print(result)
+
